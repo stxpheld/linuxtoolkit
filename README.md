@@ -1,10 +1,10 @@
-# The Linux IT Guy Toolbox
+# The Linux IT Toolbox
 ![GitHub Release](https://img.shields.io/github/v/release/TheLinuxITGuy/Toolbox?style=for-the-badge&labelColor=%231A365D&color=%23E9FC12)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/TheLinuxITGuy/Toolbox/total?style=for-the-badge&labelColor=%231A365D&color=%23E9FC12)
 
 ![Preview](Screenshot/Screenshot3.png)
 
-**The Linux IT Guy Toolbox** is a Python script that provides a user-friendly GUI for managing various applications and system settings on your Linux machine. Easily install or remove applications, manage power settings, or perform system updates with the click of a button! 🚀
+**The Linux IT Toolbox** is a Python script that provides a user-friendly GUI for managing various applications and system settings on your Linux machine. Easily install or remove applications, manage power settings, or perform system updates with the click of a button! 🚀
 
 ## ✨ Features 
 
