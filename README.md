@@ -31,13 +31,3 @@ git clone https://github.com/TheLinuxITGuy/Toolbox.git && cd Toolbox && python3 
 
 The applications and their categories are defined in the `apps_config.csv` file. You can customize this file to add or remove applications as needed.
 
-## 🎥 Video
-[![Video](https://img.youtube.com/vi/PJytFBO3seM/maxresdefault.jpg)](https://youtu.be/PJytFBO3seM)
-
-## 📥 Supported Distros
-![Static Badge](https://img.shields.io/badge/Arch-%231A365D?style=for-the-badge&logo=arch%20linux&logoColor=%23E9FC12)
-![Static Badge](https://img.shields.io/badge/Debian-%231A365D?style=for-the-badge&logo=debian&logoColor=%23E9FC12)
-![Static Badge](https://img.shields.io/badge/Fedora-%231A365D?style=for-the-badge&logo=fedora&logoColor=%23E9FC12)
-
-## 💖 Sponsor
-https://www.paypal.com/donate/?hosted_button_id=WPTX2BMBARSG2
